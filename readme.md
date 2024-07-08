@@ -1,6 +1,3 @@
-
-### Roxiler System Assessment Frontend-Backend ###
-
 Backend Task
 Data Source
 THIRD PARTY API URL : https://s3.amazonaws.com/roxiler.com/product_transaction.json
