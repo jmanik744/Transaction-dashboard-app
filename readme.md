@@ -91,5 +91,6 @@ Transactions Bar Char (Use your created API to fetch the data)
 the selected month irrespective of the year using API
 - Month selected from dropdown (above the table) should be applied here
 
-[presentation.webm](https://github.com/jmanik744/Transaction-dashboard-app/assets/108329646/5841a48a-6284-4d5d-8b58-48416818b0b5)
+https://github.com/jmanik744/Transaction-dashboard-app/assets/108329646/b03242a9-f795-45cf-8e23-23e4e85444ac
+
 
